@@ -1,7 +1,7 @@
-kaggle_spaceship_titanic
-==============================
+# mlops_spaceship_titanic
+This is the implementation of a Kaggle challenge with the similar name and with MLOps bells and whistles
 
-Predict which passengers are transported to an alternate dimension
+It Predict which passengers are transported to an alternate dimension.
 
 Project Organization
 ------------
